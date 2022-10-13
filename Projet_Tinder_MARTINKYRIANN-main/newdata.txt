@@ -1,0 +1,15 @@
+marion,africain,ectomorphe,hardrock,centre_sur_soi
+Jacques,asiatique,ectomorphe,jazz,reserve
+BernardTapie,africain,ectomorphe,reggae,role_modele
+Louise,eurasien,ectomorphe,rap,moyenne_ou_typique
+Sarah,asiatique,mesomorphe,reggae,reserve
+Farid,noir,ebdomorphe,rap,centre_sur_soi
+Arya,indien,ectomorphe,salsa,moyenne_ou_typique
+Martin,eurasien,endomorphe,rap,reserve
+Kyriann,noir,mesomorphe,reggae,moyenne_ou_typique
+Jim_pioche,eurasien,ectomorphe,salsa,role_modele
+Marie,eurasien,ectomorphe,jazz,role_modele
+,indien,mesomorphe,rap,reserve
+& C:/Users/marti/AppData/Local/Microsoft/WindowsApps/python3.10.exe "c:/Users/marti/OneDrive/Documents/Cours terminal/NSI/Projet_Tinder_MARTINKYRIANN-main/Projet_Tinder_MARTINKYRIANN-main/main2.py",asiatique,ectomorphe,rap,reserve
+& C:/Users/marti/AppData/Local/Microsoft/WindowsApps/python3.10.exe "c:/Users/marti/OneDrive/Documents/Cours terminal/NSI/Projet_Tinder_MARTINKYRIANN-main/Projet_Tinder_MARTINKYRIANN-main/main2.py",africain,ectomorphe,rap,reserve
+Mamarie,indien,mesomorphe,rap,role_modele
