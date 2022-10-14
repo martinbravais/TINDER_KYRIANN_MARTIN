@@ -1,4 +1,4 @@
-# Tinder ou Friender, une appli de rencontre seulement pour l'élite qui a pris NSI en terminal :
+# Tinder ou Friender, une appli pour trouver des amis seulement pour l'élite qui a pris NSI en terminal :
 ![image](https://user-images.githubusercontent.com/91455910/195780809-2c503da7-f4c6-45a8-83c3-18a2db9c1978.png)
 
 
