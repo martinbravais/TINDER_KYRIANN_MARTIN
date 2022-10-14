@@ -16,6 +16,8 @@ Le projet Tinder qui vous est présenté est divisé en deux parties.
 Caractéristiques:
 
 Type : eurasien, africain, asiatique ou indien
+      ![image](https://user-images.githubusercontent.com/91455910/195777992-2faf34e5-663e-48e1-9a88-5c4cfbf31cfd.png)
+
 
 
 Type de physique : ectomorphe, endomorphe ou mesomorphe
@@ -23,6 +25,10 @@ Type de physique : ectomorphe, endomorphe ou mesomorphe
 
 
 Type de goûts musicaux : jazz, hardrock, rap, reggae ou salsa
+                       ![image](https://user-images.githubusercontent.com/91455910/195778227-573bfd8e-c8a7-46ed-b198-5b5ad51d7ca9.png)
+
 
 
 Type de caractères : moyenne_ou_typique, reserve, role_modele ou centre_sur_soi
+                   ![image](https://user-images.githubusercontent.com/91455910/195778612-13aa2891-ad0f-47ac-a196-a57f79e75166.png)
+
