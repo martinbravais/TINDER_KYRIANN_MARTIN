@@ -1,5 +1,33 @@
 Tinder ou Friender:
-![image](https://user-images.githubusercontent.com/91455910/195779719-6192db60-3cfa-4269-a325-5dbab7ea40f9.png)
+![image](https://user-images.githubusercontent.com/91455910/195780809-2c503da7-f4c6-45a8-83c3-18a2db9c1978.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
