@@ -4,25 +4,23 @@ from data import *
 datapretendants=readdata()
 pretendants=[ligne[1:] for ligne in datapretendants]
 pretendants_nom=[ligne[0] for ligne in datapretendants]
-#profile de l'user et ses préférences
+#profil de l'user et ses préférences
 
-user = ["africain","endomorphe","rap","reserve"]
-print(pretendants)
-pref_ethnie=input("rentrez votre préférence de type de votre partenaire idéal:")
+pref_ethnie=input("rentrez votre préférence de type de votre partenaire idéal  réponds bien eurasien, africain, asiatique ou indien:   ")
 while pref_ethnie not in authorized_types:
                  pref_ethnie = input ("Vous devez absolument choisir parmi ces types: eurasien, africain, asiatique ou indien: \
                     ")
-pref_corps=input("rentrez votre préférence de physique de votre partenaire idéal :")
+pref_corps=input("rentrez votre préférence de physique de votre partenaire idéal  réponds bien ectomorphe, endomorphe ou mesomorphe   :")
 while pref_corps not in authorized_physiques:
                  pref_corps = input("Vous devez absolument choisir parmi ces physiques : ectomorphe, endomorphe ou mesomorphe: \
                     ")
-pref_musique=input("rentrez votre préférence pour les goûts musicaux de votre partenaire idéal :")
+pref_musique=input("rentrez votre préférence pour les goûts musicaux de votre partenaire idéal  réponds bien jazz, hardrock, rap, reggae ou salsa:  ")
 while pref_musique not in authorized_musiques :
                  pref_musique = input("Vous devez absolument choisir parmi ces styles  de musique : jazz, hardrock, rap, reggae ou salsa: \
                     ")
-pref_caractere=input("rentrez votre préférence de caractere pour votre partenaire :")
+pref_caractere=input("rentrez votre préférence de caractère pour votre partenaire réponds moyenne_ou_typique, reserve, role_modele ou centre_sur_soi   :")
 while pref_caractere not in authorized_caracteres :
-          pref_caractere = input("Vous devez absolument choisir parmi ces musiques : moyenne_ou_typique, reserve, role_modele ou centre_sur_soi: \
+          pref_caractere = input("Vous devez absolument choisir parmi ces caractères : moyenne_ou_typique, reserve, role_modele ou centre_sur_soi: \
             ")
 
 user_preferences = [pref_ethnie,pref_corps,pref_musique,pref_caractere]
