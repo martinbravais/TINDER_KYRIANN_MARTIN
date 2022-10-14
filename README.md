@@ -26,8 +26,7 @@ Type de physique : ectomorphe, endomorphe ou mesomorphe
 
 Type de goûts musicaux : jazz, hardrock, rap, reggae ou salsa
 
-
-                       ![image](https://user-images.githubusercontent.com/91455910/195778227-573bfd8e-c8a7-46ed-b198-5b5ad51d7ca9.png)
+![image](https://user-images.githubusercontent.com/91455910/195778227-573bfd8e-c8a7-46ed-b198-5b5ad51d7ca9.png)
 
 
 
