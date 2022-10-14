@@ -1,4 +1,4 @@
-Tinder ou Friender:
+Tinder ou Friender, une appli de rencontre seulement pour l'élite qui a pris NSI en terminal :
 ![image](https://user-images.githubusercontent.com/91455910/195780809-2c503da7-f4c6-45a8-83c3-18a2db9c1978.png)
 
 
@@ -53,7 +53,7 @@ Le projet Tinder qui vous est présenté est divisé en deux parties.
 
 
 
-Caractéristiques:
+Caractéristiques proposée par notre appli de rencontre:
 
 Type : eurasien, africain, asiatique ou indien
       ![image](https://user-images.githubusercontent.com/91455910/195777992-2faf34e5-663e-48e1-9a88-5c4cfbf31cfd.png)
